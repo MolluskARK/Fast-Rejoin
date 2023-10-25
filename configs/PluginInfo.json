@@ -1,6 +1,6 @@
 {
-    "FullName": "Plugin Template",
-    "Description": "Simple plugin template",
+    "FullName": "Fast Rejoin",
+    "Description": "Rejoin immediately after crashes/disconnects",
     "Version": 0.1,
     "MinApiVersion": 3.54
 }
