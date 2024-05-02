@@ -7,7 +7,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Plugin.cpp" />
+    <ClCompile Include="src\FastRejoin.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="extern\ArkServerApi\version\Core\Public\API\ARK\Actor.h" />

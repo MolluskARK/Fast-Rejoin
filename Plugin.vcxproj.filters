@@ -84,7 +84,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Plugin.cpp">
+    <ClCompile Include="src\FastRejoin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
